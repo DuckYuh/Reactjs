@@ -1,4 +1,4 @@
-import '../styles/productlist.scss'
+import './productlist.scss'
 
 const Product = () => {
     return (

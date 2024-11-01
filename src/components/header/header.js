@@ -1,4 +1,4 @@
-import "../styles/header.scss"
+import "./header.scss"
 import Nav from 'react-bootstrap/Nav';
 
 const Header = (props) => {

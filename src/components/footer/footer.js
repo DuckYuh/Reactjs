@@ -1,4 +1,4 @@
-import "../styles/footer.scss"
+import "./footer.scss"
 import Nav from 'react-bootstrap/Nav';
 
 const Footer = (props) => {
